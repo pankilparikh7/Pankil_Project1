@@ -107,7 +107,12 @@ $sID = intval($_SESSION['bid']);
 
         unset ($_SESSION['bid']);
         session_destroy();
-footer class="page-footer font-small blue">
+
+    }
+   
+?>
+ 
+<footer class="page-footer font-small blue">
 
 <!-- Copyright -->  
 <div class="footer-copyright text-center py-3">Pankil© 2021 Copyright:
