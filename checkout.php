@@ -110,9 +110,7 @@ $sID = intval($_SESSION['bid']);
 
     }
    
-?>
-
-   
+?> 
 <footer class="page-footer font-small blue">
 
 <!-- Copyright -->  
